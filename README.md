@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a Software Engineer & a frontend developer.
+
+Let's make a community where innovation meets code, and possibilities take flight! 🌟"
+
+📫 How to reach me: https://asad520.github.io/portfolio/
+
+[![An image of @asad520's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asad520)](https://holopin.io/@asad520)
+
+
 <!--
 **Asad520/Asad520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
