@@ -6,7 +6,11 @@ Let's make a community where innovation meets code, and possibilities take fligh
 
 📫 How to reach me: https://asad520.github.io/portfolio/
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asad520&layout=compact)
+
+
 [![An image of @asad520's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asad520)](https://holopin.io/@asad520)
+
 
 
 <!--
