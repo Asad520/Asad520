@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer and a frontend developer.
+I'm a Software Engineer mainly working with fronted technologies in Javascript.
 
 Let's make a community where innovation meets code, and possibilities take flight! 🌟"
 
